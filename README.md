@@ -2,7 +2,7 @@
 
 Окно **800×800** показывает область монитора вокруг курсора. OBS: **Захват окна** → **`CursorFollow — OBS Capture`**.
 
-<video src="https://github.com/artcoed/cursor_follow_obs_app/blob/master/demonstration.mp4" width="100%" controls></video>
+https://github.com/user-attachments/assets/d08905e7-6417-4dbe-b224-f9d4e25d2ed4
 
 ## Запуск
 
